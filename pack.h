@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: pack.h
- * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
+ * Authors: Tygan Chin (tchin02)
  * Date: 10/18/23
  * Summary: Provides function declarations for a function that packs 4 given 
  *          pixels into a given codeWord and one that  unpacks a given codeWord 
