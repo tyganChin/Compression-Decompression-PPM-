@@ -1,13 +1,13 @@
 # Compression-Decompression-PPM-
 #### Main Author : Tygan Chin
-    - ##### Sub-Authors : Tufts CS Adim, Benjamin Li, David Chen
+- ##### Sub-Authors : Tufts CS Adim, Benjamin Li, David Chen
 #### Language : C
 #### Date : October 16, 2023
 
 
 
 ## Description
-
+Takes in a PPM image/compressed PPM image and compresses/decompresses it into a text file about 1/4 the size of the original file or restores the original image. The compression is lossy and is accomplished through color space conversion, bitpacking, and quantization.
 
 ## Architecture
 
