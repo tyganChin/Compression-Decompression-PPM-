@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: quantize.h
- * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
+ * Authors: Tygan Chin (tchin02)
  * Date: 10/20/23
  * Summary: Provides a quantization and dequantization function which quantiz 
 */
