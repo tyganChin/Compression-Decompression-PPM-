@@ -19,9 +19,9 @@
 static const int WORD_BIT_LENGTH = sizeof(codeWord) * 8;
 static const int PR_LSB = 0,                 PR_WIDTH = WORD_BIT_LENGTH / 8;
 static const int PB_LSB = PR_WIDTH,          PB_WIDTH = WORD_BIT_LENGTH / 8;
-static const int D_LSB  = PB_LSB + PB_WIDTH, D_WIDTH  = WORD_BIT_LENGTH / 5.30;
-static const int C_LSB  = D_LSB + D_WIDTH,   C_WIDTH  = WORD_BIT_LENGTH / 5.30;
-static const int B_LSB  = C_LSB + C_WIDTH,   B_WIDTH  = WORD_BIT_LENGTH / 5.30;
+static const int D_LSB  = PB_LSB + PB_WIDTH, D_WIDTH  = WORD_BIT_LENGTH / 6.40;
+static const int C_LSB  = D_LSB + D_WIDTH,   C_WIDTH  = WORD_BIT_LENGTH / 6.40;
+static const int B_LSB  = C_LSB + C_WIDTH,   B_WIDTH  = WORD_BIT_LENGTH / 6.40;
 static const int A_LSB  = B_LSB + B_WIDTH,   A_WIDTH  = WORD_BIT_LENGTH - A_LSB;
 
 /* struct to hold the quantized vals for the compression/decomp */
