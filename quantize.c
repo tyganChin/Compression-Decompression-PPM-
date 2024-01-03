@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: quantize.c
- * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
+ * Authors: Tygan Chin (tchin02)
  * Date: 10/20/23
  * Summary: Quantizes/dequantizes the given pixels and saves them to a given 
  *          struct.
