@@ -1,6 +1,6 @@
 # Compression-Decompression-PPM-
 #### Main Author : Tygan Chin
-- ##### Sub-Authors : Tufts CS Adim, Benjamin Li, David Chen
+- ##### Sub-Authors : Tufts CS Adim, Emily Ye, Benjamin Li, David Chen
 #### Language : C
 #### Date : October 16, 2023
 
