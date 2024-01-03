@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: pack.c
- * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
+ * Authors: Tygan Chin (tchin02)
  * Date: 10/18/2023
  * Summary: Pack the given 2 by 2 block of Component Video pixels into a 32 bit 
  *          bitpacked word or unpacks a 32 bitpacked word into a 2 by 2 block 
