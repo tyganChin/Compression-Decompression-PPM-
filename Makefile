@@ -1,7 +1,7 @@
  #
  # Assignment: arith
  # Name: Makefile
- # Authors: Tygan Chin (tchin02)
+ # Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
  # Date: 10/18/23
  # Summary: Builds the ppm compression/decompression program along with test 	
  #	    files for the program.
