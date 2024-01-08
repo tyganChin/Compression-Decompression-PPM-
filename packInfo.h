@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: packInfo.h
- * Authors: Tygan Chin (tchin02)
+ * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
  * Date: 10/19/23
  * Summary: Provides the width and locations of the quantized components in the 
  *          codeWord as well as two structs to hold quantized and dequantized 
