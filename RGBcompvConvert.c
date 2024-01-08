@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: RGBcompvConvert.c
- * Authors: Tygan Chin (tchin02)
+ * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
  * Date: 10/18/2023
  * Summary: Converts the given pixel either from RGB color space to Component 
  *          Video space or Component Video space to RGB.
