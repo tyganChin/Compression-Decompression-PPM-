@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: RGBcompvConvert.h
- * Authors: Tygan Chin (tchin02)
+ * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)v
  * Date: 10/18/23
  * Summary: Provides user with the functions to convert a single 12 byte RGB 
  *          pixel to Componet video form and vice versa.
