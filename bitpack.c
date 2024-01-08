@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: bitpack.c
- * Authors: Tygan Chin (tchin02)
+ * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
  * Date: 10/18/23
  * Summary: Implementation of the bitpack interface. Allows user to create a 
  *          signed or unsigned 64 bitpacked integer. Functions allow user to 
