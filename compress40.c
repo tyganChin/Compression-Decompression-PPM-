@@ -1,7 +1,7 @@
 /*
  * Assignment: arith
  * Name: compress40.c
- * Authors: Tygan Chin (tchin02)
+ * Authors: Tygan Chin (tchin02) & Emily Ye (eye03)
  * Date: 10/18/2023
  * Summary: Compresses or decompress a given ppm file/compressed ppm file and 
  *          prints out the compressed ppm file/ decompressed file to stdout. 
